@@ -24,7 +24,7 @@ Para cumplir con los requerimientos del proyecto, se generaron tres archivos pri
 2. **`Métricas_Adopcion_y_Herramientas_IA.xlsx` (Excel 2):** Contiene la cuota de mercado de asistentes de IA (GitHub Copilot, Cursor, Claude Code) y métricas cuantitativas de impacto en la productividad laboral (19% de aceleración en entregas y ahorro de 71 días al año por equipo).
 3. **`Normativas_y_Seguridad_IA.docx` (Word 1):** Informe cualitativo sobre las 3 fases de evolución del paradigma de desarrollo (2021–2026), ciberseguridad (riesgos OWASP GenAI: Prompt Injection, fuga de datos, código vulnerable) y esquemas de precios/comercialización de IA.
 4. **`comparativo_precios_herramientas_ia_2026.xlsx` (Excel 3):** contiene comparativo de precios de 24 planes de herramientas de IA para desarrollo.
-5. **`analisis_seguridad_inteligencia_artificial.docx` (Word 2):**
+5. **`analisis_seguridad_inteligencia_artificial.docx` (Word 2):** Informe de la seguridad y ciberseguridad de la ia
 
 ## 🛠️ Herramientas Utilizadas y Metodología
 
